@@ -20,4 +20,4 @@ features like seasonality of goods, price points, etc. together with our propose
 features achieve better accuracy, in terms of lower RMSE, compared to demand
 forecasting models with only traditional features.
 
-For further info, check the uploaded research paper in the repository named: "Cognitive Demand Forecasting with Novel Features Using Word2Vec and Session of the Day.pdf"
+For further info, check the uploaded research paper in the repository named: "Cognitive_Demand_Forecasting.pdf"
